@@ -1,5 +1,5 @@
 <?php
-// require ("../helpers.php");
+require ("../helpers.php");
 require ("Curso.php");
 require ("Profesor.php");
 require ("Alumnos.php");

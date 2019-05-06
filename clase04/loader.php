@@ -12,4 +12,4 @@ $product2 = new Product('Cafe', "Colombiano", "200", $category2);
 $product3 = new Product('Lavandina', "5 litros", "100", $category3);
 
 
-dd($product2);
+dd($product1);
